@@ -13,7 +13,11 @@ const Header = () => {
         <div className="flex justify-between items-center h-16">
           <Link to="/" className="flex items-center space-x-3">
             <div className="w-10 h-10 bg-primary rounded-full flex items-center justify-center">
-              <Icon name="Users" className="w-6 h-6 text-white" />
+              <img
+                src="https://cdn.poehali.dev/files/153df705-ea7e-4cd8-a6e2-7e28ceaa93d2.jpg"
+                alt="Новые люди"
+                className="w-6 h-6 object-cover rounded-sm"
+              />
             </div>
             <div>
               <h1 className="text-xl font-bold text-gray-900">Новые люди</h1>
