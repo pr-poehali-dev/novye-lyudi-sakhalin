@@ -16,7 +16,7 @@ const Header = () => {
               <img
                 src="https://cdn.poehali.dev/files/153df705-ea7e-4cd8-a6e2-7e28ceaa93d2.jpg"
                 alt="Новые люди"
-                className="w-6 h-6 object-cover rounded-full"
+                className="w-6 h-6 object-cover rounded-full py-0 px-0 mx-0"
               />
             </div>
             <div>
